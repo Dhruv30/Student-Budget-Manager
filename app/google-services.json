@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065085564479",
+    "firebase_url": "https://studentbudgetmanager-cc8c2.firebaseio.com",
+    "project_id": "studentbudgetmanager-cc8c2",
+    "storage_bucket": "studentbudgetmanager-cc8c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065085564479:android:36bf820b598b7e98",
+        "android_client_info": {
+          "package_name": "com.dhruvmanani.studentfinancemanagertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065085564479-2ignv6bansf0ut876pc1gdos7l5pvvlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhruvmanani.studentfinancemanagertest",
+            "certificate_hash": "196b6dcd2c8da168d6f8a778f10b502e4ac6f211"
+          }
+        },
+        {
+          "client_id": "1065085564479-var647uhibai5ce5oc2vbp8fbi09f4oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtp8xJn3TR3fj89vjxOgva-AbbBiTNpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065085564479-var647uhibai5ce5oc2vbp8fbi09f4oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
